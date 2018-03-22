@@ -1,2 +1,3 @@
 package: potymike
-import: []
+import:
+- package: github.com/huin/goupnp

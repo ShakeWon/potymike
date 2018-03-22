@@ -1,0 +1,6 @@
+hash: 8354fbf49945071f4065131eef8c419acd49eba236d5e8ec4fe8c00e856ab59e
+updated: 2018-03-22T11:11:32.886613+08:00
+imports:
+- name: github.com/huin/goupnp
+  version: 167b9766e52022410644dfc64e8aadd57ee36858
+testImports: []
